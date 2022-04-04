@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%F046E311&size=22&width=450&lines=%3C+Hi!+It's+me!+Felps!+%2F%3E;%3C+Welcome+to+my+github+profile+%2F%3E)](https://git.io/typing-svg)
 
-## Oioi! sou eu Felps)
+## Oioi! sou eu Felps :)
 
 <div align="center">
   <a href="https://github.com/Fells778" target="_blank">
@@ -30,7 +30,7 @@
     <img alt="email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/felps" target="_blank">
+  <a href="https://linkedin.com/in/felipe-souza-63963b22a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
   
