@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%F046E311&size=22&width=450&lines=%3C+Hi!+It's+me!+Felps!+%2F%3E;%3C+Welcome+to+my+github+profile+%2F%3E)](https://git.io/typing-svg)
 
-## Oioi! sou eu Felps :)
+## 🐱‍👤Oioi! sou eu Felps :)
 
 <div align="center">
   <a href="https://github.com/Fells778" target="_blank">
@@ -21,7 +21,7 @@
 <marquee>
   <div align="center">
     <img alt="android" height="30" src="https://icongr.am/devicon/android-plain.svg?size=139&color=3cc62a"/>
-    <p>ANDROID DEVELOPER</p> 
+    <p>ANDROID DEVELOPER</p>
   </div>
 </marquee>
 
