@@ -11,6 +11,8 @@
 </div>
 
 <div  align="center">
+  
+![KOTLIN](https://img.shields.io/static/v1?label=ANDROID&labelColor=4b53ff&message=KOTLIN&color=130000&logo=KOTLIN&logoColor=ffffff&style=flat-square)
 
 </div>
 
