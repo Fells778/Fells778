@@ -4,9 +4,11 @@
 
 <div align="center">
   <a href="https://github.com/Fells778" target="_blank">
+    <div style="display: inline_block">
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Fells778&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <!--STATUS DE LINGUAGEM-->
     <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fells778&layout=compact&title_color=FFF&text_color=FFF&icon_color=222323&border_color=222323&bg_color=00000c&border_radius=5&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=7000&exclude_repo=scripts-and-configs,atividades-ifba-c">
+    </div>
   </a>
 </div>
 
@@ -15,9 +17,7 @@
 ![KOTLIN](https://img.shields.io/static/v1?label=ANDROID&labelColor=4b53ff&message=KOTLIN&color=130000&logo=KOTLIN&logoColor=ffffff&style=flat-square)
 
 </div>
-
 ---
-
 <marquee>
   <div align="center">
     <img alt="android" height="30" src="https://icongr.am/devicon/android-plain.svg?size=139&color=3cc62a"/>
