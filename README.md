@@ -6,7 +6,7 @@
   <a href="https://github.com/Fells778" target="_blank">
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Fells778&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <!--STATUS DE LINGUAGEM-->
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fells778&layout=compact&theme=dark&include_all_commits=true&count_private=true&cache_seconds=7000">
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fells778&layout=compact&title_color=FFF&text_color=FFF&icon_color=222323&border_color=222323&bg_color=00000c&border_radius=5&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=7000&exclude_repo=scripts-and-configs,atividades-ifba-c">
   </a>
 </div>
 
